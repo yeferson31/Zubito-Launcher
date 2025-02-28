@@ -1,15 +1,15 @@
 {
-    "name": "hylegacy-launcher",
-    "preductname": "HyLegacy Launcher",
+    "name": "Zubito-launcher",
+    "preductname": "Zubito Launcher",
     "version": "3.0.0",
     "description": "Launcher Minecraft.",
     "main": "src/app.js",
     "author": {
-        "name": "HyLegacy, Inc.",
-        "email": "contact@HyLegacy.com",
-        "url": "https://github.com/HyLegacy"
+        "name": "Zubito, Inc.",
+        "email": "contact@Zubito.com",
+        "url": "https://github.com/yeferson31/Zubito-Launcher"
     },
-    "url": "http://23.230.3.69:8088",
+    "url": "http://38.58.180.69:8088",
     "scripts": {
         "start": "cross-env-shell NODE_ENV=dev electron .",
         "dev": "cross-env-shell DEV_TOOL=open nodemon --exec npm start",
@@ -39,6 +39,6 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/yef31/Selvania-Launcher.git"
+        "url": "git+https://github.com/yeferson31/Zubito-Launcher.git"
     }
 }
