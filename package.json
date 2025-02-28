@@ -9,7 +9,7 @@
         "email": "contact@Zubito.com",
         "url": "https://github.com/yeferson31/Zubito-Launcher"
     },
-    "url": "http://38.58.180.69:8088",
+    "url": "http://38.58.180.69:8088/",
     "scripts": {
         "start": "cross-env-shell NODE_ENV=dev electron .",
         "dev": "cross-env-shell DEV_TOOL=open nodemon --exec npm start",
