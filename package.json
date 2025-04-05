@@ -1,7 +1,7 @@
 {
     "name": "Zubito-launcher",
     "preductname": "Zubito Launcher",
-    "version": "3.0.0",
+    "version": "3.0.1",
     "description": "Launcher Minecraft Zubito.",
     "main": "src/app.js",
     "author": {
